@@ -85,7 +85,7 @@ pipeline {
 ### Решение 3
 
 Скриншот 1 к решению 3
-![Screen 8](https://github.com/jack34ru/DevOps-CI-CD/blob/master/screenshots/Screenshot_82png)
+![Screen 8](https://github.com/jack34ru/DevOps-CI-CD/blob/master/screenshots/Screenshot_82.png)
 Скриншот 2 к решению 3
 ![Screen 9](https://github.com/jack34ru/DevOps-CI-CD/blob/master/screenshots/Screenshot_83.png)
 Скриншот 3 к решению 3
