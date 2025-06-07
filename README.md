@@ -14,7 +14,7 @@
 
 ### Решение 1
 
-![Screen 1](https://github.com/jack34ru/DevOps-CI-CD/tree/master/screenshots/Screenshot_75.png)
+![Screen 1](https://github.com/jack34ru/DevOps-CI-CD/blob/master/screenshots/Screenshot_75.png)
 
 
 ---
