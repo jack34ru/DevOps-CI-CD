@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Что такое DevOps. СI/СD»
+# Домашнее задание к занятию «Что такое DevOps. СI/СD» - Кузнецов Евгений Александрович
 
 ### Задание 1
 
@@ -14,7 +14,7 @@
 
 ### Решение 1
 
-![Screen 1](https://github.com/jack34ru/DevOps-CI-CD/tree/master/screenshots/Screenshot_75)
+![Screen 1](https://github.com/jack34ru/DevOps-CI-CD/tree/master/screenshots/Screenshot_75.png)
 
 
 ---
